@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "548843478193",
+    "project_id": "socialmobile-cfd15",
+    "storage_bucket": "socialmobile-cfd15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548843478193:android:353fbd9fd313da90781690",
+        "android_client_info": {
+          "package_name": "com.ihun.socialmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548843478193-ii8ak8a7hc19vn93017llg1r02mmd536.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihun.socialmobile",
+            "certificate_hash": "6ffca47d70aa4dceb3907665d2434cf47337eff4"
+          }
+        },
+        {
+          "client_id": "548843478193-rs9qar55bu7r5cb6pjtjcrp1rmuujd8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7soySfcFJ-jdkRHuRq17Z5FroIjvaDNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548843478193-rs9qar55bu7r5cb6pjtjcrp1rmuujd8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
